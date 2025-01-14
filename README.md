@@ -39,14 +39,14 @@ As per the final model with augmented data and dropout, Training accuracy and va
 
 
 ## Technologies Used
-Collab
-TensorFlow version: 2.17.1
-Keras version: 3.5.0
-Matplotlib version: 3.10.0
-NumPy version: 1.26.4
-Pandas version: 2.2.2
-PIL version: 11.1.0
-Augmentor version: 0.2.12
+1. Collab
+2. TensorFlow version: 2.17.1
+3. Keras version: 3.5.0
+4. Matplotlib version: 3.10.0
+5. NumPy version: 1.26.4
+6. Pandas version: 2.2.2
+7. PIL version: 11.1.0
+8. Augmentor version: 0.2.12
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
