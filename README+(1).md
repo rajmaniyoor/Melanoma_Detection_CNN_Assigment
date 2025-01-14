@@ -1,5 +1,5 @@
 # Melanoma_Detection_CNN_Assigment
-> Outline a brief description of your project.
+To build a CNN based model which can accurately detect melanoma.
 
 
 ## Table of Contents
