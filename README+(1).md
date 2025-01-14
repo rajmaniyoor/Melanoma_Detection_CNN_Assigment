@@ -55,7 +55,7 @@ Augmentor version: 0.2.12
 
 
 ## Contact
-Created by [@rajmaniyoor] - feel free to contact me!
+Created by [@rajmaniyoor]
 
 
 <!-- Optional -->
